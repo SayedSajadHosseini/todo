@@ -1,0 +1,11 @@
+GET http://localhost:3001/api/todo
+
+
+###
+
+POST http://localhost:3001/api/todo
+Content-Type: application/json
+
+{
+    "title": "this is title 3"
+}
